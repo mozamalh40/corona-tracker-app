@@ -1,0 +1,22 @@
+
+
+.container{
+  display: flex;
+  gap: 30px;
+  margin-top: 3rem;
+  width: 65%;
+  /* height: 30%; */
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.Infected{
+  border-bottom: 10px solid rgba(135, 82, 235, 0.5);
+}
+
+.Deathes{
+  border-bottom: 10px solid rgba(91, 230, 121, 0.5);
+}
+
+.Recovered{
+  border-bottom: 10px solid rgba(247, 105, 105, 0.5);
+}
